@@ -1,0 +1,65 @@
+html {
+	position: relative;
+}
+
+body {
+	margin-bottom: 100px;
+	margin-top: 30px;
+}
+
+.jumbotron img {
+	width: 200px;
+	border: 5px solid #666;
+}
+
+hr {
+	width: 300px;
+	border-top: 3px solid #999;
+
+}
+
+section {
+	min-height: 550px;
+}
+
+.para{
+	margin-top: 70px;
+}
+
+.gallery {
+	background-color: #eee;
+}
+
+footer {
+	position: absolute;
+	height: 100px;
+	bottom: 0;
+	background-color: #333;
+	width: 100%;
+	padding-top: 43px;
+}
+
+footer p {
+		color: #aaa;
+		font-size: 
+}
+
+footer a {
+	color :orange;
+}
+
+.navbar-inverse  {
+	background-color: #333;
+}
+
+.zoom:hover {
+    transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+a {
+	cursor: xpointer;
+}
+
+a img {
+	width: 200px;
+}
